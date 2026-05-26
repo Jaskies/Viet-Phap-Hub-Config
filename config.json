@@ -1,0 +1,48 @@
+{
+  "config": {
+    "appName": "VIET PHAP HUB",
+    "appIconUrl": "/SEIlogo.png"
+  },
+  "apps": [
+    {
+      "id": "calendar",
+      "name": "Xem Lịch",
+      "fullName": "Lịch Đặt Xe",
+      "description": "Theo dõi lịch đặt xe của công ty",
+      "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/shrY9jtHeslIKNvkA",
+      "icon": "Calendar",
+      "color": "text-red-600",
+      "bgColor": "bg-red-100"
+    },
+    {
+      "id": "book",
+      "name": "Đặt Xe",
+      "fullName": "Tạo Lệnh Đặt Xe",
+      "description": "Đặt xe phục vụ công tác",
+      "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/pagle28WY0mxg48Dj/form",
+      "icon": "Car",
+      "color": "text-blue-600",
+      "bgColor": "bg-blue-100"
+    },
+    {
+      "id": "staff",
+      "name": "Staff",
+      "fullName": "Nhân Sự",
+      "description": "Thu thập thông tin để chuẩn hóa dữ liệu",
+      "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/pagN1CE3qSkAFgC5t/form",
+      "icon": "User",
+      "color": "text-green-600",
+      "bgColor": "bg-green-100"
+    },
+    {
+      "id": "child",
+      "name": "Child",
+      "fullName": "Thông Tin Trẻ Em",
+      "description": "Thu thập thông tin con em CBNV",
+      "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/pagdmsQl7KvUJbFxb/form",
+      "icon": "Info",
+      "color": "text-pink-600",
+      "bgColor": "bg-pink-100"
+    }
+  ]
+}
