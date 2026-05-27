@@ -44,5 +44,78 @@
       "color": "text-pink-600",
       "bgColor": "bg-pink-100"
     }
-  ]
+  ],
+  "strings": {
+    "common": {
+      "save": "Lưu",
+      "cancel": "Hủy",
+      "close": "Đóng",
+      "delete": "Xóa",
+      "edit": "Sửa",
+      "add": "Thêm",
+      "confirm": "Xác nhận",
+      "loading": "Đang tải...",
+      "error": "Đã xảy ra lỗi",
+      "success": "Thành công",
+      "warning": "Cảnh báo",
+      "back": "Quay lại",
+      "home": "Trang chủ",
+      "settings": "Cài đặt",
+      "more": "Thêm",
+      "version": "Phiên bản"
+    },
+    "dashboard": {
+      "greeting": "Xin chào! 👋",
+      "subGreeting": "Chúc bạn một ngày làm việc an toàn và hiệu quả.",
+      "manageApps": "Quản lý ứng dụng",
+      "installApp": "Cài đặt ứng dụng",
+      "installAppDesc": "Thêm vào màn hình chính để dùng nhanh hơn",
+      "installNow": "Cài đặt ngay",
+      "openApp": "Mở ứng dụng",
+      "noDescription": "Không có mô tả",
+      "addNewApp": "Thêm ứng dụng mới"
+    },
+    "navigation": {
+      "otherApps": "Ứng dụng khác",
+      "home": "Home",
+      "taxiDriver": "VIỆT PHÁP HOLDINGS",
+      "supportDesc": "MỘT LÒNG PHỤNG SỰ"
+    },
+    "settings": {
+      "title": "Quản lý & Cài đặt",
+      "mainConfig": "Cấu hình Ứng dụng Chính",
+      "appName": "Tên ứng dụng",
+      "appNamePlaceholder": "VD: Cổng Thông Tin",
+      "appIconUrl": "Icon URL (Cho màn hình chính)",
+      "iconUrlPlaceholder": "https://...",
+      "iconNote": "Lưu ý: Icon này sẽ được hiển thị khi bạn chọn \"Cài đặt ứng dụng\" vào màn hình chính điện thoại.",
+      "subApps": "Ứng dụng con",
+      "shortName": "Tên ngắn",
+      "shortNamePlaceholder": "VD: Dự án A",
+      "fullName": "Tên đầy đủ",
+      "fullNamePlaceholder": "VD: Quản lý Dự án A",
+      "websiteUrl": "Website (URL)",
+      "urlPlaceholder": "https://...",
+      "description": "Mô tả",
+      "descriptionPlaceholder": "Mô tả ngắn...",
+      "chooseIcon": "Chọn Biểu tượng",
+      "iconPlaceholder": "Tên icon hoặc Link ảnh (https://...)",
+      "chooseColor": "Chọn Màu sắc",
+      "addApp": "Thêm ứng dụng",
+      "backupRestore": "Sao lưu & Khôi phục",
+      "exportXml": "Xuất XML",
+      "importXml": "Nhập XML",
+      "resetDefaults": "Khôi phục mặc định",
+      "resetConfirm": "Hành động này sẽ xóa mọi cài đặt và quay về mặc định. Tiếp tục?",
+      "deleteConfirm": "Bạn có chắc chắn muốn xóa ứng dụng này không?",
+      "importSuccess": "Khôi phục dữ liệu thành công!",
+      "importConfirm": "Tìm thấy {count} ứng dụng trong file backup. Bạn có muốn khôi phục không? Dữ liệu hiện tại sẽ bị thay thế.",
+      "xmlError": "Lỗi đọc file XML: File không đúng định dạng hoặc bị hỏng.",
+      "validationNameUrl": "Vui lòng nhập Tên và Đường dẫn URL",
+      "validationAppName": "Vui lòng nhập tên ứng dụng",
+      "configSourceUrl": "URL Cấu hình từ xa (JSON)",
+      "configSourceUrlPlaceholder": "VD: https://raw.githubusercontent.com/.../config.json",
+      "configSourceUrlNote": "Hỗ trợ Dropbox và GitHub. Hệ thống tự động chuyển đổi sang liên kết tải trực tiếp (raw link)."
+    }
+  }
 }
