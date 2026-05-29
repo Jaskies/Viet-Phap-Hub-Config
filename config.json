@@ -25,11 +25,11 @@
       "bgColor": "bg-blue-100"
     },
     {
-      "id": "staff",
-      "name": "Staff",
-      "fullName": "Nhân Sự",
-      "description": "Thu thập thông tin để chuẩn hóa dữ liệu",
-      "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/pagN1CE3qSkAFgC5t/form",
+      "id": "size",
+      "name": "Size",
+      "fullName": "Đăng Ký Đồng Phục",
+      "description": "Thu thập thông tin đăng ký đồng phục",
+      "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/paggiGHarAKQltl4F/form",
       "icon": "User",
       "color": "text-green-600",
       "bgColor": "bg-green-100"
@@ -43,6 +43,16 @@
       "icon": "Info",
       "color": "text-pink-600",
       "bgColor": "bg-pink-100"
+    },
+    {
+      "id": "staff",
+      "name": "Staff",
+      "fullName": "Nhân Sự",
+      "description": "Thu thập thông tin để chuẩn hóa dữ liệu",
+      "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/pagN1CE3qSkAFgC5t/form",
+      "icon": "User",
+      "color": "text-green-600",
+      "bgColor": "bg-green-100"
     }
   ],
   "strings": {
