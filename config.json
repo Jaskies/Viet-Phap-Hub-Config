@@ -37,22 +37,26 @@
     {
       "id": "staff",
       "name": "Staff",
-      "fullName": "(Kết Thúc) Nhân Sự",
+      "fullName": "Nhân Sự",
       "description": "Thu thập thông tin để chuẩn hóa dữ liệu",
       "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/pagN1CE3qSkAFgC5t/form",
       "icon": "User",
       "color": "text-green-600",
-      "bgColor": "bg-green-100"
+      "bgColor": "bg-green-100",
+      "status": "disable",
+      "warning": "Đã kết thúc thu thập thông tin chuẩn hóa dữ liệu. Xin vui lòng liên hệ Phòng HCNS nếu bạn cần bổ sung!"
     },
     {
       "id": "child",
       "name": "Child",
-      "fullName": "(Kết Thúc) Thông Tin Trẻ Em",
+      "fullName": Thông Tin Trẻ Em",
       "description": "Thu thập thông tin con em CBNV",
       "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/pagdmsQl7KvUJbFxb/form",
       "icon": "Info",
       "color": "text-pink-600",
-      "bgColor": "bg-pink-100"
+      "bgColor": "bg-pink-100",
+      "status": "disable",
+      "warning": "Đã kết thúc thu thập thông tin trẻ em nhận quà Quốc tế Thiếu nhi. Xin vui lòng liên hệ Phòng HCNS!"
     }
   ],
   "strings": {
