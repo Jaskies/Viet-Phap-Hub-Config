@@ -35,16 +35,6 @@
       "bgColor": "bg-green-100"
     },
     {
-      "id": "child",
-      "name": "Child",
-      "fullName": "Thông Tin Trẻ Em",
-      "description": "Thu thập thông tin con em CBNV",
-      "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/pagdmsQl7KvUJbFxb/form",
-      "icon": "Info",
-      "color": "text-pink-600",
-      "bgColor": "bg-pink-100"
-    },
-    {
       "id": "staff",
       "name": "Staff",
       "fullName": "Nhân Sự",
@@ -53,6 +43,16 @@
       "icon": "User",
       "color": "text-green-600",
       "bgColor": "bg-green-100"
+    },
+    {
+      "id": "child",
+      "name": "Child",
+      "fullName": "(Kết Thúc) Thông Tin Trẻ Em",
+      "description": "Thu thập thông tin con em CBNV",
+      "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/pagdmsQl7KvUJbFxb/form",
+      "icon": "Info",
+      "color": "text-pink-600",
+      "bgColor": "bg-pink-100"
     }
   ],
   "strings": {
