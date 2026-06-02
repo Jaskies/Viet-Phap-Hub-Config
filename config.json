@@ -45,7 +45,7 @@
       "bgColor": "bg-green-100",
       "status": "disable",
       "warning": "Đã kết thúc thu thập thông tin chuẩn hóa dữ liệu. Xin vui lòng liên hệ Phòng HCNS nếu bạn cần bổ sung!",
-      "allowedRoles": ["directors"]
+      "allowedRoles": ["directors", "hr"]
     },
     {
       "id": "child",
