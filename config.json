@@ -35,6 +35,17 @@
       "bgColor": "bg-green-100"
     },
     {
+      "id": "stafflist",
+      "name": "Staff List",
+      "fullName": "Danh Sách Nhân Viên",
+      "description": "Danh sách nhân viên toàn công ty",
+      "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/shrpa8ggrYpFKlb2g",
+      "icon": "Users",
+      "color": "text-orange-600",
+      "bgColor": "bg-orange-100",
+      "allowedRoles": ["directors", "hr"]
+    },
+    {
       "id": "staff",
       "name": "Staff",
       "fullName": "Nhân Sự",
