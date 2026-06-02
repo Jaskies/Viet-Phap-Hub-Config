@@ -44,7 +44,8 @@
       "color": "text-green-600",
       "bgColor": "bg-green-100",
       "status": "disable",
-      "warning": "Đã kết thúc thu thập thông tin chuẩn hóa dữ liệu. Xin vui lòng liên hệ Phòng HCNS nếu bạn cần bổ sung!"
+      "warning": "Đã kết thúc thu thập thông tin chuẩn hóa dữ liệu. Xin vui lòng liên hệ Phòng HCNS nếu bạn cần bổ sung!",
+      "allowedRoles": ["hr", "directors"]
     },
     {
       "id": "child",
@@ -56,7 +57,8 @@
       "color": "text-pink-600",
       "bgColor": "bg-pink-100",
       "status": "disable",
-      "warning": "Đã kết thúc thu thập thông tin trẻ em nhận quà Quốc tế Thiếu nhi. Xin vui lòng liên hệ Phòng HCNS!"
+      "warning": "Đã kết thúc thu thập thông tin trẻ em nhận quà Quốc tế Thiếu nhi. Xin vui lòng liên hệ Phòng HCNS!",
+      "allowedRoles": ["hr", "directors"]
     }
   ],
   "strings": {
