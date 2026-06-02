@@ -26,7 +26,9 @@
     "installNow": "Cài đặt ngay",
     "openApp": "Mở ứng dụng",
     "noDescription": "Không có mô tả",
-    "addNewApp": "Thêm ứng dụng mới"
+    "addNewApp": "Thêm ứng dụng mới",
+    "tempLocked": "Tạm khóa",
+    "viewNotice": "Xem thông báo"
   },
   "navigation": {
     "otherApps": "Ứng dụng khác",
@@ -70,6 +72,64 @@
     "configSourceUrlPlaceholder": "VD: https://raw.githubusercontent.com/.../config.json",
     "configSourceUrlNote": "Hỗ trợ Dropbox và GitHub. Hệ thống tự động chuyển đổi sang liên kết tải trực tiếp (raw link).",
     "stringsSourceUrl": "URL Dịch thuật từ xa (JSON)",
-    "stringsSourceUrlPlaceholder": "VD: https://raw.githubusercontent.com/.../strings.json"
+    "stringsSourceUrlPlaceholder": "VD: https://raw.githubusercontent.com/.../strings.json",
+    "editMainConfigNote": "Chạm để đổi tên & icon chính"
+  },
+  "auth": {
+    "loginTitle": "Đăng nhập tài khoản",
+    "changePasswordTitle": "Thay đổi mật khẩu",
+    "emailLabel": "Email đăng nhập",
+    "passwordLabel": "Mật khẩu",
+    "currentPasswordLabel": "Mật khẩu hiện tại",
+    "newPasswordLabel": "Mật khẩu mới",
+    "newPasswordPlaceholder": "Tối thiểu 6 ký tự",
+    "confirmPasswordLabel": "Xác nhận mật khẩu mới",
+    "confirmPasswordPlaceholder": "Nhập lại mật khẩu mới",
+    "updating": "Đang cập nhật...",
+    "updateBtn": "Cập nhật",
+    "processing": "Đang xử lý...",
+    "loginBtn": "Đăng nhập",
+    "loginAdminBtn": "Đăng nhập quản trị",
+    "logoutBtn": "Đăng xuất",
+    "changePasswordBtn": "Đổi mật khẩu",
+    "logoutConfirm": "Bạn có chắc chắn muốn đăng xuất không?",
+    "changePasswordSuccess": "Thay đổi mật khẩu thành công! Cửa sổ sẽ đóng sau giây lát.",
+    "validationFieldsRequired": "Vui lòng nhập đầy đủ các trường.",
+    "validationEmailPasswordRequired": "Vui lòng điền đầy đủ Email và Mật khẩu.",
+    "validationPasswordMinLength": "Mật khẩu mới phải chứa ít nhất 6 ký tự.",
+    "validationPasswordsMismatch": "Mật khẩu mới và mật khẩu xác nhận không khớp.",
+    "errorWrongPassword": "Mật khẩu hiện tại không chính xác.",
+    "errorInvalidCredential": "Thông tin xác thực không đúng.",
+    "errorWeakPassword": "Mật khẩu mới quá yếu. Vui lòng chọn mật khẩu khác.",
+    "errorNetworkFailed": "Lỗi kết nối mạng. Vui lòng kiểm tra lại đường truyền.",
+    "errorGenericLogin": "Đăng nhập thất bại. Vui lòng kiểm tra lại thông tin.",
+    "errorGenericPassword": "Không thể đổi mật khẩu. Vui lòng thử lại.",
+    "errorWrongEmailPassword": "Email hoặc Mật khẩu không chính xác.",
+    "errorInvalidEmail": "Định dạng Email không hợp lệ.",
+    "errorUserDisabled": "Tài khoản của bạn đã bị khóa.",
+    "roleEmployee": "Nhân Viên",
+    "roles": {
+      "directors": "Ban Giám Đốc",
+      "hr": "Hành Chính Nhân Sự",
+      "admin": "Quản Trị Viên",
+      "accountant": "Kế Toán",
+      "accounting": "Kế Toán",
+      "manager": "Quản Lý",
+      "sales": "Kinh Doanh",
+      "it": "Kỹ Thuật / IT",
+      "technical": "Kỹ Thuật",
+      "marketing": "Marketing",
+      "operations": "Vận Hành"
+    }
+  },
+  "app": {
+    "warningLocked": "Chức năng này hiện đang tạm khóa.",
+    "warningNoPermission": "Bạn không có quyền truy cập chức năng này. Vui lòng đăng nhập tài khoản phù hợp.",
+    "configLoadErrorTitle": "Không thể tải cấu hình",
+    "configLoadErrorDesc": "Tệp cấu hình của ứng dụng chưa được nạp hoặc đang có lỗi cú pháp. Vui lòng đợi 1-2 phút rồi nhấn nút tải lại bên dưới.",
+    "reloadPage": "Tải lại trang",
+    "accessDeniedTitle": "Truy cập bị từ chối",
+    "accessDeniedDesc": "Bạn không có quyền truy cập ứng dụng con này hoặc chưa đăng nhập tài khoản quản trị phù hợp.",
+    "backToHome": "Quay lại Trang chủ"
   }
 }
