@@ -36,6 +36,17 @@
       "bgColor": "bg-yellow-100"
     },
     {
+      "id": "stafflist",
+      "name": "Staff List",
+      "fullName": "Danh Sách Nhân Viên",
+      "description": "Danh sách nhân viên toàn công ty",
+      "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/shrpa8ggrYpFKlb2g",
+      "icon": "Users",
+      "color": "text-orange-600",
+      "bgColor": "bg-orange-100",
+      "allowedRoles": ["directors", "hr"]
+    },
+    {
       "id": "size",
       "name": "Size",
       "fullName": "Đăng Ký Đồng Phục",
@@ -46,17 +57,6 @@
       "bgColor": "bg-green-100",
       "status": "disable",
       "warning": "Đã kết thúc đăng ký đồng phục. Xin vui lòng liên hệ Phòng HCNS nếu bạn cần bổ sung!",
-      "allowedRoles": ["directors", "hr"]
-    },
-    {
-      "id": "stafflist",
-      "name": "Staff List",
-      "fullName": "Danh Sách Nhân Viên",
-      "description": "Danh sách nhân viên toàn công ty",
-      "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/shrpa8ggrYpFKlb2g",
-      "icon": "Users",
-      "color": "text-orange-600",
-      "bgColor": "bg-orange-100",
       "allowedRoles": ["directors", "hr"]
     },
     {
