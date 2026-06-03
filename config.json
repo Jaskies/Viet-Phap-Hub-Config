@@ -25,9 +25,44 @@
       "icon": "Car",
       "color": "text-blue-600",
       "bgColor": "bg-blue-100",
-      "status": "disable",
-      "warning": "Tính năng Đặt Xe đang được bảo trì nâng cấp hệ thống. Vui lòng quay lại sau!",
       "category": "Quản lý xe"
+    },
+    {
+      "id": "timeoff",
+      "name": "Nghỉ Phép",
+      "fullName": "Xin Nghỉ Phép",
+      "description": "Tạo đơn xin nghỉ phép và phê duyệt điện tử.",
+      "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/pag4B1EXcHN9hLWyN/form",
+      "icon": "Footprints",
+      "color": "text-yellow-600",
+      "bgColor": "bg-yellow-100",
+      "category": "Hành chính Nhân sự"
+    },
+    {
+      "id": "stafflist",
+      "name": "Staff List",
+      "fullName": "Danh Sách Nhân Viên",
+      "description": "Danh sách nhân viên toàn công ty",
+      "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/shrpa8ggrYpFKlb2g",
+      "icon": "Users",
+      "color": "text-orange-600",
+      "bgColor": "bg-orange-100",
+      "allowedRoles": ["directors", "hr"],
+      "category": "Hành chính Nhân sự"
+    },
+    {
+      "id": "size",
+      "name": "Size",
+      "fullName": "Đăng Ký Đồng Phục",
+      "description": "Thu thập thông tin đăng ký đồng phục",
+      "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/paggiGHarAKQltl4F/form",
+      "icon": "User",
+      "color": "text-green-600",
+      "bgColor": "bg-green-100",
+      "status": "disable",
+      "warning": "Đã kết thúc đăng ký đồng phục. Xin vui lòng liên hệ Phòng HCNS nếu bạn cần bổ sung!",
+      "allowedRoles": ["directors", "hr"],
+      "category": "Hành chính Nhân sự"
     },
     {
       "id": "staff",
@@ -35,10 +70,12 @@
       "fullName": "Nhân Sự",
       "description": "Thu thập thông tin để chuẩn hóa dữ liệu",
       "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/pagN1CE3qSkAFgC5t/form",
-      "icon": "User",
+      "icon": "UserPlus",
       "color": "text-green-600",
       "bgColor": "bg-green-100",
-      "allowedRoles": ["hr", "directors"],
+      "status": "disable",
+      "warning": "Đã kết thúc thu thập thông tin chuẩn hóa dữ liệu. Xin vui lòng liên hệ Phòng HCNS nếu bạn cần bổ sung!",
+      "allowedRoles": ["directors", "hr"],
       "category": "Hành chính Nhân sự"
     },
     {
@@ -47,9 +84,11 @@
       "fullName": "Thông Tin Trẻ Em",
       "description": "Thu thập thông tin con em CBNV",
       "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/pagdmsQl7KvUJbFxb/form",
-      "icon": "Info",
+      "icon": "Baby",
       "color": "text-pink-600",
       "bgColor": "bg-pink-100",
+      "status": "disable",
+      "warning": "Đã kết thúc thu thập thông tin trẻ em nhận quà Quốc tế Thiếu nhi. Xin vui lòng liên hệ Phòng HCNS!",
       "allowedRoles": ["hr", "directors"],
       "category": "Hành chính Nhân sự"
     }
