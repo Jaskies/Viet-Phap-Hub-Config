@@ -43,7 +43,7 @@
     },
     {
       "id": "stafflist",
-      "name": "Nhân Viên",
+      "name": "DS Nhân Viên",
       "fullName": "Danh Sách Nhân Viên",
       "description": "Danh sách nhân viên toàn công ty",
       "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/shrpa8ggrYpFKlb2g",
@@ -56,7 +56,7 @@
     },
     {
       "id": "size",
-      "name": "Đồng Phục",
+      "name": "ĐK Đồng Phục",
       "fullName": "Đăng Ký Đồng Phục",
       "description": "Thu thập thông tin đăng ký đồng phục",
       "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/paggiGHarAKQltl4F/form",
@@ -70,7 +70,7 @@
     },
     {
       "id": "staff",
-      "name": "Staff",
+      "name": "ĐK Thông Tin",
       "fullName": "Nhân Sự",
       "description": "Thu thập thông tin để chuẩn hóa dữ liệu",
       "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/pagN1CE3qSkAFgC5t/form",
