@@ -28,7 +28,7 @@
     {
       "id": "timeoff",
       "name": "Nghỉ Phép",
-      "fullName": "Đơn Xin Nghỉ Phép",
+      "fullName": "Xin Nghỉ Phép",
       "description": "Tạo đơn xin nghỉ phép và phê duyệt điện tử.",
       "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/pag4B1EXcHN9hLWyN/form",
       "icon": "Footprints",
