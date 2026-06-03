@@ -43,7 +43,7 @@
     },
     {
       "id": "stafflist",
-      "name": "Staff List",
+      "name": "Nhân Viên",
       "fullName": "Danh Sách Nhân Viên",
       "description": "Danh sách nhân viên toàn công ty",
       "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/shrpa8ggrYpFKlb2g",
@@ -56,7 +56,7 @@
     },
     {
       "id": "size",
-      "name": "Size",
+      "name": "Đồng Phục",
       "fullName": "Đăng Ký Đồng Phục",
       "description": "Thu thập thông tin đăng ký đồng phục",
       "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/paggiGHarAKQltl4F/form",
@@ -84,7 +84,7 @@
     },
     {
       "id": "child",
-      "name": "Child",
+      "name": "ĐK Trẻ Em",
       "fullName": "Thông Tin Trẻ Em",
       "description": "Thu thập thông tin con em CBNV",
       "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/pagdmsQl7KvUJbFxb/form",
