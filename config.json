@@ -26,6 +26,16 @@
       "bgColor": "bg-blue-100"
     },
     {
+      "id": "timeoff",
+      "name": "Nghỉ Phép",
+      "fullName": "Đơn Xin Nghỉ Phép",
+      "description": "Tạo đơn xin nghỉ phép và phê duyệt điện tử.",
+      "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/pag4B1EXcHN9hLWyN/form",
+      "icon": "Footprints",
+      "color": "text-yellow-600",
+      "bgColor": "bg-yellow-100"
+    },
+    {
       "id": "size",
       "name": "Size",
       "fullName": "Đăng Ký Đồng Phục",
@@ -33,7 +43,10 @@
       "url": "https://airtable.com/embed/appXGb6cO08DOAqo6/paggiGHarAKQltl4F/form",
       "icon": "User",
       "color": "text-green-600",
-      "bgColor": "bg-green-100"
+      "bgColor": "bg-green-100",
+      "status": "disable",
+      "warning": "Đã kết thúc đăng ký đồng phục. Xin vui lòng liên hệ Phòng HCNS nếu bạn cần bổ sung!",
+      "allowedRoles": ["directors", "hr"]
     },
     {
       "id": "stafflist",
