@@ -28,7 +28,12 @@
     "noDescription": "Không có mô tả",
     "addNewApp": "Thêm ứng dụng mới",
     "tempLocked": "Tạm khóa",
-    "viewNotice": "Xem thông báo"
+    "viewNotice": "Xem thông báo",
+    "searchPlaceholder": "Tìm ứng dụng nhanh...",
+    "favoritesTitle": "Ứng dụng yêu thích",
+    "allAppsTitle": "Tất cả ứng dụng",
+    "viewModeGrid": "Dạng lưới",
+    "viewModeCompact": "Thu gọn"
   },
   "navigation": {
     "otherApps": "Ứng dụng khác",
@@ -131,5 +136,28 @@
     "accessDeniedTitle": "Truy cập bị từ chối",
     "accessDeniedDesc": "Bạn không có quyền truy cập ứng dụng con này hoặc chưa đăng nhập tài khoản quản trị phù hợp.",
     "backToHome": "Quay lại Trang chủ"
+  },
+  "notifications": {
+    "title": "Thông báo nội bộ",
+    "noNotifications": "Hiện không có thông báo nào.",
+    "unreadBadge": "thông báo mới",
+    "markAllRead": "Đánh dấu tất cả đã đọc",
+    "createNotice": "Tạo thông báo mới",
+    "editNotice": "Soạn thông báo",
+    "noticeTitle": "Tiêu đề thông báo",
+    "noticeContent": "Nội dung chi tiết",
+    "noticeTarget": "Đối tượng nhận",
+    "noticePinned": "Ghim ở đầu danh sách",
+    "noticeUrgent": "Thông báo khẩn cấp",
+    "publish": "Đăng thông báo",
+    "deleteConfirm": "Bạn có chắc chắn muốn xóa thông báo này không?",
+    "deleteSuccess": "Xóa thông báo thành công!",
+    "publishSuccess": "Đăng thông báo thành công!",
+    "allEmployees": "Tất cả mọi người",
+    "urgentTitle": "KHẨN CẤP",
+    "pinnedTitle": "CHÚ Ý",
+    "placeholderTitle": "Nhập tiêu đề thông báo...",
+    "placeholderContent": "Nhập nội dung chi tiết của thông báo (hỗ trợ xuống dòng)...",
+    "senderLabel": "Người gửi"
   }
 }
