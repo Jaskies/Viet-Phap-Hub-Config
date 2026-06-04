@@ -17,7 +17,8 @@
       "bgColor": "bg-indigo-100",
       "category": "Cá nhân",
       "favorite": true,
-      "allowedRoles": ["staff", "hr", "directors"]
+      "allowedRoles": ["staff", "hr", "directors"],
+      "testingOnly": true
     },
     {
       "_note": "Đây là ghi chú",
