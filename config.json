@@ -7,6 +7,19 @@
   },
   "apps": [
     {
+      "id": "tasks",
+      "name": "Công việc",
+      "fullName": "Quản lý công việc",
+      "description": "Quản lý công việc cá nhân theo ma trận Eisenhower",
+      "url": "internal://tasks",
+      "icon": "CheckSquare",
+      "color": "text-indigo-600",
+      "bgColor": "bg-indigo-100",
+      "category": "Cá nhân",
+      "favorite": true,
+      "allowedRoles": ["staff", "hr", "directors"]
+    },
+    {
       "_note": "Đây là ghi chú",
       "id": "calendar",
       "name": "Xem Lịch",
