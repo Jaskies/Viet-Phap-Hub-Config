@@ -18,7 +18,7 @@
       "category": "Cá nhân",
       "favorite": true,
       "allowedRoles": ["staff", "hr", "directors"],
-      "testingOnly": true
+      "testingOnly": false
     },
     {
       "_note": "Đây là ghi chú",
