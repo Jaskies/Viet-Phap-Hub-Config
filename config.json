@@ -7,6 +7,7 @@
   },
   "apps": [
     {
+      "_note": "Đây là ghi chú, testingOnly: boolean",
       "id": "tasks",
       "name": "Công việc",
       "fullName": "Quản lý công việc",
@@ -17,11 +18,9 @@
       "bgColor": "bg-indigo-100",
       "category": "Cá nhân",
       "favorite": true,
-      "allowedRoles": ["staff"],
-      "testingOnly": false
+      "allowedRoles": ["staff"]
     },
     {
-      "_note": "Đây là ghi chú",
       "id": "calendar",
       "name": "Xem Lịch",
       "fullName": "Lịch Đặt Xe",
