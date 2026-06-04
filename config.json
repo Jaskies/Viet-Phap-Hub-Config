@@ -67,7 +67,7 @@
       "bgColor": "bg-orange-100",
       "allowedRoles": ["directors", "hr"],
       "category": "Hành chính Nhân sự",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": "size",
