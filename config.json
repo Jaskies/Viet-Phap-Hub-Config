@@ -17,7 +17,7 @@
       "bgColor": "bg-indigo-100",
       "category": "Cá nhân",
       "favorite": true,
-      "allowedRoles": ["staff", "hr", "directors"],
+      "allowedRoles": ["staff"],
       "testingOnly": false
     },
     {
@@ -66,7 +66,7 @@
       "icon": "Users",
       "color": "text-orange-600",
       "bgColor": "bg-orange-100",
-      "allowedRoles": ["directors", "hr"],
+      "allowedRoles": ["hr"],
       "category": "Hành chính Nhân sự",
       "favorite": false
     },
