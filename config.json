@@ -1,4 +1,5 @@
 {
+  "_comment": "ĐÂY LÀ PHẦN GHI CHÚ HƯỚNG DẪN",
   "config": {
     "appName": "VIET PHAP HUB",
     "appIconUrl": "/SEIlogo.png",
@@ -6,6 +7,7 @@
   },
   "apps": [
     {
+      "_note": "Đây là ghi chú",
       "id": "calendar",
       "name": "Xem Lịch",
       "fullName": "Lịch Đặt Xe",
