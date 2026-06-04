@@ -18,7 +18,8 @@
       "bgColor": "bg-indigo-100",
       "category": "Cá nhân",
       "favorite": true,
-      "allowedRoles": ["staff"]
+      "allowedRoles": ["staff"],
+      "testingOnly": false
     },
     {
       "id": "calendar",
