@@ -33,6 +33,17 @@
       "category": "9 Tiện Ích"
     },
     {
+      "id": "mbti",
+      "name": "Trắc Nghiệm MBTI",
+      "fullName": "Trắc Nghiệm Tính Cách",
+      "description": "Hoàn thành 70 câu hỏi trắc nghiệm để hiểu rõ hơn về bản thân.",
+      "url": "https://vietphap.seifina.com/MBTI",
+      "icon": "Smile",
+      "color": "text-purple-600",
+      "bgColor": "bg-purple-100",
+      "category": "9 Tiện Ích"
+    },
+    {
       "id": "calendar",
       "name": "Xem Lịch",
       "fullName": "Lịch Đặt Xe",
