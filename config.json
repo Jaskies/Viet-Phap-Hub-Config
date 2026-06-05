@@ -22,6 +22,17 @@
       "testingOnly": false
     },
     {
+      "id": "ai9prompt",
+      "name": "Prompt AI",
+      "fullName": "09 Câu Lệnh Chuẩn Khiến AI Trả Lời Như Chuyên Gia",
+      "description": "Cách bạn đặt câu hỏi quyết định chất lượng câu trả lời.",
+      "url": "https://vietphap.seifina.com/AI/seifina_9_cau_lenh_chuan.html",
+      "icon": "Cpu",
+      "color": "text-teal-600",
+      "bgColor": "bg-teal-100",
+      "category": "Tiện Ích"
+    },
+    {
       "id": "calendar",
       "name": "Xem Lịch",
       "fullName": "Lịch Đặt Xe",
