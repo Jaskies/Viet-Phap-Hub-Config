@@ -16,7 +16,7 @@
       "icon": "CheckSquare",
       "color": "text-indigo-600",
       "bgColor": "bg-indigo-100",
-      "category": "Tiện Ích",
+      "category": "9 Tiện Ích",
       "favorite": true,
       "allowedRoles": ["staff"],
       "testingOnly": false
@@ -30,7 +30,7 @@
       "icon": "Cpu",
       "color": "text-teal-600",
       "bgColor": "bg-teal-100",
-      "category": "Tiện Ích"
+      "category": "9 Tiện Ích"
     },
     {
       "id": "calendar",
@@ -41,7 +41,7 @@
       "icon": "Calendar",
       "color": "text-red-600",
       "bgColor": "bg-red-100",
-      "category": "Xe Công Vụ",
+      "category": "3 Xe Công Vụ",
       "favorite": false
     },
     {
@@ -53,7 +53,7 @@
       "icon": "Car",
       "color": "text-blue-600",
       "bgColor": "bg-blue-100",
-      "category": "Xe Công Vụ",
+      "category": "3 Xe Công Vụ",
       "favorite": false
     },
     {
@@ -65,7 +65,7 @@
       "icon": "Footprints",
       "color": "text-yellow-600",
       "bgColor": "bg-yellow-100",
-      "category": "Thủ Tục Hành chính",
+      "category": "1 Thủ Tục Hành chính",
       "favorite": true
     },
     {
@@ -78,7 +78,7 @@
       "color": "text-orange-600",
       "bgColor": "bg-orange-100",
       "allowedRoles": ["hr"],
-      "category": "Hành chính Nhân sự",
+      "category": "2 Hành chính Nhân sự",
       "favorite": false
     },
     {
@@ -94,7 +94,7 @@
       "warning": "Đã kết thúc đăng ký đồng phục. Xin vui lòng liên hệ Phòng HCNS nếu bạn cần bổ sung!",
       "_note": "directors, hr",
       "allowedRoles": [],
-      "category": "Thu Thập Dữ Liệu"
+      "category": "4 Thu Thập Dữ Liệu"
     },
     {
       "id": "staff",
@@ -108,7 +108,7 @@
       "status": "disable",
       "warning": "Đã kết thúc thu thập thông tin chuẩn hóa dữ liệu. Xin vui lòng liên hệ Phòng HCNS nếu bạn cần bổ sung!",
       "allowedRoles": [],
-      "category": "Thu Thập Dữ Liệu"
+      "category": "4 Thu Thập Dữ Liệu"
     },
     {
       "id": "child",
@@ -122,7 +122,7 @@
       "status": "disable",
       "warning": "Đã kết thúc thu thập thông tin trẻ em nhận quà Quốc tế Thiếu nhi. Xin vui lòng liên hệ Phòng HCNS!",
       "allowedRoles": [],
-      "category": "Thu Thập Dữ Liệu"
+      "category": "4 Thu Thập Dữ Liệu"
     }
   ]
 }
