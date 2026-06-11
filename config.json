@@ -1,10 +1,4 @@
 {
-  "_comment": "ĐÂY LÀ PHẦN GHI CHÚ HƯỚNG DẪN",
-  "config": {
-    "appName": "VIET PHAP HUB",
-    "appIconUrl": "/SEIlogo.png",
-    "stringsSourceUrl": "https://github.com/Jaskies/Viet-Phap-Hub-Config/blob/main/strings.json"
-  },
   "apps": [
     {
       "_note": "Đây là ghi chú, testingOnly: boolean",
@@ -18,7 +12,9 @@
       "bgColor": "bg-indigo-100",
       "category": "9 Tiện Ích",
       "favorite": true,
-      "allowedRoles": ["staff"],
+      "allowedRoles": [
+        "staff"
+      ],
       "testingOnly": false
     },
     {
@@ -88,7 +84,9 @@
       "icon": "Users",
       "color": "text-orange-600",
       "bgColor": "bg-orange-100",
-      "allowedRoles": ["hr"],
+      "allowedRoles": [
+        "hr"
+      ],
       "category": "2 Hành chính Nhân sự",
       "favorite": false
     },
@@ -132,8 +130,18 @@
       "bgColor": "bg-pink-100",
       "status": "disable",
       "warning": "Đã kết thúc thu thập thông tin trẻ em nhận quà Quốc tế Thiếu nhi. Xin vui lòng liên hệ Phòng HCNS!",
-      "allowedRoles": [],
-      "category": "4 Thu Thập Dữ Liệu"
+      "allowedRoles": [
+        "admin",
+        "directors",
+        "hr"
+      ],
+      "category": "Thu Thập Dữ Liệu"
     }
-  ]
+  ],
+  "config": {
+    "appName": "VIET PHAP HUB",
+    "appIconUrl": "/SEIlogo.png",
+    "configSourceUrl": "https://github.com/Jaskies/Viet-Phap-Hub-Config/blob/main/config.json",
+    "stringsSourceUrl": "https://github.com/Jaskies/Viet-Phap-Hub-Config/blob/main/strings.json"
+  }
 }
