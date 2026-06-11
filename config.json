@@ -102,12 +102,8 @@
       "status": "disable",
       "warning": "Đã kết thúc đăng ký đồng phục. Xin vui lòng liên hệ Phòng HCNS nếu bạn cần bổ sung!",
       "_note": "directors, hr",
-      "allowedRoles": [
-        "admin",
-        "directors",
-        "hr"
-      ],
-      "category": "Thu Thập Dữ Liệu"
+      "allowedRoles": [],
+      "category": "4 Thu Thập Dữ Liệu"
     },
     {
       "id": "staff",
@@ -120,8 +116,12 @@
       "bgColor": "bg-green-100",
       "status": "disable",
       "warning": "Đã kết thúc thu thập thông tin chuẩn hóa dữ liệu. Xin vui lòng liên hệ Phòng HCNS nếu bạn cần bổ sung!",
-      "allowedRoles": [],
-      "category": "4 Thu Thập Dữ Liệu"
+      "allowedRoles": [
+        "hr",
+        "admin",
+        "directors"
+      ],
+      "category": "Thu Thập Dữ Liệu"
     },
     {
       "id": "child",
