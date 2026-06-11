@@ -99,8 +99,6 @@
       "icon": "User",
       "color": "text-green-600",
       "bgColor": "bg-green-100",
-      "status": "disable",
-      "warning": "Đã kết thúc đăng ký đồng phục. Xin vui lòng liên hệ Phòng HCNS nếu bạn cần bổ sung!",
       "_note": "directors, hr",
       "allowedRoles": [
         "staff"
@@ -119,9 +117,7 @@
       "allowedRoles": [
         "hr"
       ],
-      "category": "Thu Thập Dữ Liệu",
-      "status": "disable",
-      "warning": "Ứng dụng này hiện đang tạm dừng hoạt động để bảo trì."
+      "category": "Thu Thập Dữ Liệu"
     },
     {
       "id": "child",
