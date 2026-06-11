@@ -103,7 +103,7 @@
       "warning": "Đã kết thúc đăng ký đồng phục. Xin vui lòng liên hệ Phòng HCNS nếu bạn cần bổ sung!",
       "_note": "directors, hr",
       "allowedRoles": [
-        "hr"
+        "staff"
       ],
       "category": "Thu Thập Dữ Liệu"
     },
