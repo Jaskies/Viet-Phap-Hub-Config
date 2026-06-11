@@ -117,7 +117,9 @@
       "allowedRoles": [
         "hr"
       ],
-      "category": "Thu Thập Dữ Liệu"
+      "category": "Thu Thập Dữ Liệu",
+      "status": "disable",
+      "warning": "Ứng dụng này hiện đang tạm dừng hoạt động để bảo trì."
     },
     {
       "id": "child",
