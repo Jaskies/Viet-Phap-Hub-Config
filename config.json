@@ -117,9 +117,9 @@
       "status": "disable",
       "warning": "Đã kết thúc thu thập thông tin chuẩn hóa dữ liệu. Xin vui lòng liên hệ Phòng HCNS nếu bạn cần bổ sung!",
       "allowedRoles": [
-        "hr",
         "admin",
-        "directors"
+        "directors",
+        "hr"
       ],
       "category": "Thu Thập Dữ Liệu"
     },
