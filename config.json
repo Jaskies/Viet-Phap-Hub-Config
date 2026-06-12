@@ -52,7 +52,7 @@
       "icon": "CheckSquare",
       "color": "text-indigo-600",
       "bgColor": "bg-indigo-100",
-      "category": "9 Tiện Ích",
+      "category": "Tiện Ích",
       "favorite": true,
       "allowedRoles": [
         "staff"
@@ -68,7 +68,7 @@
       "icon": "Cpu",
       "color": "text-teal-600",
       "bgColor": "bg-teal-100",
-      "category": "9 Tiện Ích"
+      "category": "Tiện Ích"
     },
     {
       "id": "mbti",
@@ -79,7 +79,7 @@
       "icon": "Smile",
       "color": "text-purple-600",
       "bgColor": "bg-purple-100",
-      "category": "9 Tiện Ích"
+      "category": "Tiện Ích"
     },
     {
       "id": "calendar",
@@ -90,7 +90,7 @@
       "icon": "Calendar",
       "color": "text-red-600",
       "bgColor": "bg-red-100",
-      "category": "3 Xe Công Vụ",
+      "category": "Xe Công Vụ",
       "favorite": false
     },
     {
@@ -102,7 +102,7 @@
       "icon": "Car",
       "color": "text-blue-600",
       "bgColor": "bg-blue-100",
-      "category": "3 Xe Công Vụ",
+      "category": "Xe Công Vụ",
       "favorite": false
     },
     {
@@ -114,7 +114,7 @@
       "icon": "Footprints",
       "color": "text-yellow-600",
       "bgColor": "bg-yellow-100",
-      "category": "1 Thủ Tục Hành chính",
+      "category": "Thủ Tục Hành chính",
       "favorite": true
     },
     {
@@ -129,7 +129,7 @@
       "allowedRoles": [
         "hr"
       ],
-      "category": "2 Hành chính Nhân sự",
+      "category": "Hành chính Nhân sự",
       "favorite": false
     },
     {
