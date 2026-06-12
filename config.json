@@ -188,7 +188,13 @@
     "configSourceUrl": "https://github.com/Jaskies/Viet-Phap-Hub-Config/blob/main/config.json",
     "stringsSourceUrl": "https://github.com/Jaskies/Viet-Phap-Hub-Config/blob/main/strings.json",
     "categories": [
-      "Tính Năng Thử Nghiệm"
+      "Hệ thống",
+      "Tính Năng Thử Nghiệm",
+      "Tiện Ích",
+      "Xe Công Vụ",
+      "Thủ Tục Hành chính",
+      "Hành chính Nhân sự",
+      "Thu Thập Dữ Liệu"
     ]
   }
 }
