@@ -10,7 +10,9 @@
       "color": "text-emerald-600",
       "bgColor": "bg-emerald-100",
       "category": "Hệ thống",
-      "allowedRoles": ["hr"]
+      "allowedRoles": [
+        "hr"
+      ]
     },
     {
       "id": "documents",
@@ -22,7 +24,9 @@
       "color": "text-indigo-600",
       "bgColor": "bg-indigo-100",
       "category": "Hệ thống",
-      "allowedRoles": ["staff"]
+      "allowedRoles": [
+        "staff"
+      ]
     },
     {
       "id": "leaves",
@@ -30,11 +34,13 @@
       "fullName": "Đăng ký nghỉ phép",
       "description": "Đăng ký nghỉ phép trực tuyến, tự động gửi email duyệt đến quản lý",
       "url": "internal://leaves",
-      "icon": "Calendar",
+      "icon": "Footprints",
       "color": "text-amber-600",
       "bgColor": "bg-amber-100",
-      "category": "Hệ thống",
-      "allowedRoles": ["staff"]
+      "category": "Tính Năng Thử Nghiệm",
+      "allowedRoles": [
+        "staff"
+      ]
     },
     {
       "_note": "Đây là ghi chú, testingOnly: boolean",
