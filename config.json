@@ -144,6 +144,9 @@
     "appName": "VIET PHAP HUB",
     "appIconUrl": "/SEIlogo.png",
     "configSourceUrl": "https://github.com/Jaskies/Viet-Phap-Hub-Config/blob/main/config.json",
-    "stringsSourceUrl": "https://github.com/Jaskies/Viet-Phap-Hub-Config/blob/main/strings.json"
+    "stringsSourceUrl": "https://github.com/Jaskies/Viet-Phap-Hub-Config/blob/main/strings.json",
+    "categories": [
+      "Tính Năng Thử Nghiệm"
+    ]
   }
 }
