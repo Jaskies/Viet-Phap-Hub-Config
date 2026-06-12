@@ -1,6 +1,42 @@
 {
   "apps": [
     {
+      "id": "users",
+      "name": "Nhân viên",
+      "fullName": "Quản lý nhân sự",
+      "description": "Quản lý tài khoản, vai trò và phân quyền nhân viên",
+      "url": "internal://users",
+      "icon": "Users",
+      "color": "text-emerald-600",
+      "bgColor": "bg-emerald-100",
+      "category": "Hệ thống",
+      "allowedRoles": ["hr"]
+    },
+    {
+      "id": "documents",
+      "name": "Thư viện",
+      "fullName": "Thư viện Văn bản",
+      "description": "Thư viện văn bản hành chính trực tuyến, xem trực tiếp không cần tải về",
+      "url": "internal://documents",
+      "icon": "FolderOpen",
+      "color": "text-indigo-600",
+      "bgColor": "bg-indigo-100",
+      "category": "Hệ thống",
+      "allowedRoles": ["staff"]
+    },
+    {
+      "id": "leaves",
+      "name": "Xin nghỉ phép",
+      "fullName": "Đăng ký nghỉ phép",
+      "description": "Đăng ký nghỉ phép trực tuyến, tự động gửi email duyệt đến quản lý",
+      "url": "internal://leaves",
+      "icon": "Calendar",
+      "color": "text-amber-600",
+      "bgColor": "bg-amber-100",
+      "category": "Hệ thống",
+      "allowedRoles": ["staff"]
+    },
+    {
       "_note": "Đây là ghi chú, testingOnly: boolean",
       "id": "tasks",
       "name": "Công việc",
