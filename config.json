@@ -60,6 +60,20 @@
       "testingOnly": false
     },
     {
+      "id": "briefings",
+      "name": "Họp Giao Ban",
+      "fullName": "Đăng ký họp giao ban",
+      "description": "Đăng ký đề xuất nội dung họp giao ban Thứ Hai hàng tuần, TGĐ phê duyệt chương trình",
+      "url": "internal://briefings",
+      "icon": "Users",
+      "color": "text-indigo-600",
+      "bgColor": "bg-indigo-100",
+      "category": "he_thong",
+      "allowedRoles": [
+        "staff"
+      ]
+    },
+    {
       "id": "ai9prompt",
       "name": "Prompt AI",
       "fullName": "Prompt Chuẩn Khiến AI Trả Lời Như Chuyên Gia",
