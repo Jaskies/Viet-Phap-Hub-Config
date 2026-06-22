@@ -147,7 +147,7 @@
       "favorite": false,
       "allowedRoles": [
         "admin"
-      ],
+      ]
     },
     {
       "id": "stafflist",
