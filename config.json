@@ -74,6 +74,20 @@
       ]
     },
     {
+      "id": "timekeeping",
+      "name": "Chấm Công",
+      "fullName": "Chấm công đa điểm",
+      "description": "Chấm công vào ca / ra ca tự động ghi nhận thời gian và tọa độ GPS định vị",
+      "url": "internal://timekeeping",
+      "icon": "MapPin",
+      "color": "text-rose-600",
+      "bgColor": "bg-rose-100",
+      "category": "Hệ thống",
+      "allowedRoles": [
+        "staff"
+      ]
+    },
+    {
       "id": "ai9prompt",
       "name": "Prompt AI",
       "fullName": "Prompt Chuẩn Khiến AI Trả Lời Như Chuyên Gia",
