@@ -82,7 +82,7 @@
       "icon": "MapPin",
       "color": "text-rose-600",
       "bgColor": "bg-rose-100",
-      "category": "Hệ thống",
+      "category": "Tính Năng Thử Nghiệm",
       "allowedRoles": [
         "staff"
       ]
