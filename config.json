@@ -68,7 +68,7 @@
       "icon": "Users",
       "color": "text-indigo-600",
       "bgColor": "bg-indigo-100",
-      "category": "he_thong",
+      "category": "Hệ thống",
       "allowedRoles": [
         "staff"
       ]
