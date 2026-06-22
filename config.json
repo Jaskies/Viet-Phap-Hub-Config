@@ -175,9 +175,11 @@
       "bgColor": "bg-green-100",
       "_note": "directors, hr",
       "allowedRoles": [
-        "staff"
+        "hr"
       ],
-      "category": "Thu Thập Dữ Liệu"
+      "category": "Thu Thập Dữ Liệu",
+      "status": "disable",
+      "warning": "Ứng dụng này hiện đang tạm dừng hoạt động để bảo trì."
     },
     {
       "id": "staff",
