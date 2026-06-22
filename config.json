@@ -37,7 +37,8 @@
       "icon": "Footprints",
       "color": "text-amber-600",
       "bgColor": "bg-amber-100",
-      "category": "Tính Năng Thử Nghiệm",
+      "favorite": true,
+      "category": "Thủ Tục Hành chính",
       "allowedRoles": [
         "staff"
       ]
@@ -82,7 +83,7 @@
       "icon": "MapPin",
       "color": "text-rose-600",
       "bgColor": "bg-rose-100",
-      "category": "Tính Năng Thử Nghiệm",
+      "category": "Thủ Tục Hành chính",
       "allowedRoles": [
         "staff"
       ]
@@ -143,7 +144,10 @@
       "color": "text-yellow-600",
       "bgColor": "bg-yellow-100",
       "category": "Thủ Tục Hành chính",
-      "favorite": true
+      "favorite": false,
+      "allowedRoles": [
+        "admin"
+      ],
     },
     {
       "id": "stafflist",
