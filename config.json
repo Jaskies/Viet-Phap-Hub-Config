@@ -9,7 +9,7 @@
       "icon": "Users",
       "color": "text-emerald-600",
       "bgColor": "bg-emerald-100",
-      "category": "Hệ thống",
+      "category": "Quản Trị Doanh Nghiệp",
       "allowedRoles": [
         "hr"
       ]
@@ -69,7 +69,7 @@
       "icon": "Users",
       "color": "text-indigo-600",
       "bgColor": "bg-indigo-100",
-      "category": "Hệ thống",
+      "category": "Quản Trị Doanh Nghiệp",
       "allowedRoles": [
         "staff"
       ]
