@@ -53,7 +53,7 @@
       "icon": "CheckSquare",
       "color": "text-indigo-600",
       "bgColor": "bg-indigo-100",
-      "category": "Tiện Ích",
+      "category": "Quản Trị Doanh Nghiệp",
       "favorite": true,
       "allowedRoles": [
         "staff"
