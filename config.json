@@ -75,6 +75,21 @@
       ]
     },
     {
+      "id": "bsc",
+      "name": "Chiến lược BSC",
+      "fullName": "Bản đồ Chiến lược BSC",
+      "description": "Quản lý Thẻ điểm cân bằng (BSC), sơ đồ liên kết nhân quả và phân bổ mục tiêu KPI doanh nghiệp.",
+      "url": "internal://bsc",
+      "icon": "Target",
+      "color": "text-purple-600",
+      "bgColor": "bg-purple-50",
+      "category": "Quản Trị Doanh Nghiệp",
+      "favorite": false,
+      "allowedRoles": [
+        "directors"
+      ]
+    },
+    {
       "id": "timekeeping",
       "name": "Chấm Công",
       "fullName": "Chấm công đa điểm",
@@ -222,6 +237,7 @@
     "configSourceUrl": "https://github.com/Jaskies/Viet-Phap-Hub-Config/blob/main/config.json",
     "stringsSourceUrl": "https://github.com/Jaskies/Viet-Phap-Hub-Config/blob/main/strings.json",
     "categories": [
+      "Quản Trị Doanh Nghiệp",
       "Thủ Tục Hành chính",
       "Hành chính Nhân sự",
       "Xe Công Vụ",
