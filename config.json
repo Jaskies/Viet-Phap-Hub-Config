@@ -206,10 +206,9 @@
       "color": "text-green-600",
       "bgColor": "bg-green-100",
       "allowedRoles": [
-        "hr"
       ],
       "category": "Thu Thập Dữ Liệu",
-      "status": "disable",
+      "status": "enable",
       "warning": "Ứng dụng này hiện đang tạm dừng hoạt động để bảo trì."
     },
     {
