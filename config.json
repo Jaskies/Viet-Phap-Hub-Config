@@ -228,6 +228,20 @@
         "hr"
       ],
       "category": "Thu Thập Dữ Liệu"
+    },
+    {
+      "id": "suggestions",
+      "name": "Đề xuất",
+      "fullName": "Đề xuất tính năng",
+      "description": "Đề xuất và đóng góp ý tưởng phát triển ứng dụng",
+      "url": "internal://suggestions",
+      "icon": "Lightbulb",
+      "color": "text-amber-600",
+      "bgColor": "bg-amber-100",
+      "category": "Hệ thống",
+      "allowedRoles": [
+        "management"
+      ]
     }
   ],
   "config": {
